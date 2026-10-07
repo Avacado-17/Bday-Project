@@ -1,0 +1,6 @@
+{
+  "name": "A Sweet Birthday Wish",
+  "description": "Heartfelt birthday parchment notes gathered around a sunlit coffee sunflower cake with interactive candle glow and golden confetti.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
